@@ -6,7 +6,7 @@ This is the GitHub repository for course CMP 414/765: Artificial Intelligence ta
 ## View A Notebook
 Simply click the file name on the list. Jupyter notebooks can be directly viewed on GitHub website.
 
-**IMPORTANT:** If Github does not display the notebook correctly, click the "Raw" button on the page to show the raw file, and copy the first URL in the browser address bar to display the notebook in Google Colab. The URL should start with "https://colab.research.google.com/github".
+**IMPORTANT:** If Github does not display the notebook correctly, click the "Raw" button on the page to show the raw file, and copy the first URL to the browser address bar to display the notebook in Google Colab. The URL should start with "https://colab.research.google.com/github".
 
 ## Edit A Notebook
 To edit a notebook from this repository, please click the "Open in Colab" button at the beginning. Students should be able to open the notebook in Google Colaboratory. Google Colab is a free Jupyter notebook environment that runs in the Google Cloud. An edited notebook can be saved to either Google Drive or another GitHub repository. Note that students are not able to save their edited notebooks to this repository.
